@@ -1,0 +1,57 @@
+{
+  "movies": [
+    {
+      "title": "Terminator",
+      "description": "Terminator Description",
+      "id": 1,
+      "genre": {
+        "id": "5b21ca3eeb7f6fbccd471818",
+        "name": "Action"
+      }
+    },
+    {
+      "title": "Get Out",
+      "description": "Get Out Description",
+      "userId": "113898148233860258014",
+      "id": 3,
+      "genre": {
+        "id": "5b21ca3eeb7f6fbccd471820",
+        "name": "Thriller"
+      }
+    },
+    {
+      "title": "Trip to Italy",
+      "description": "Trip to Italy Description",
+      "userId": "113898148233860258014",
+      "id": 4,
+      "genre": {
+        "id": "5b21ca3eeb7f6fbccd471814",
+        "name": "Comedy"
+      }
+    },
+    {
+      "title": "Airplane",
+      "description": "Airplane Description",
+      "userId": "113898148233860258014",
+      "id": 5,
+      "genre": {
+        "id": "5b21ca3eeb7f6fbccd471814",
+        "name": "Comedy"
+      }
+    }
+  ],
+  "genres": [
+    {
+      "id": "5b21ca3eeb7f6fbccd471818",
+      "name": "Action"
+    },
+    {
+      "id": "5b21ca3eeb7f6fbccd471814",
+      "name": "Comedy"
+    },
+    {
+      "id": "5b21ca3eeb7f6fbccd471820",
+      "name": "Thriller"
+    }
+  ]
+}
